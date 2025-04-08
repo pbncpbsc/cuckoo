@@ -4,7 +4,7 @@
   <a href="https://cuckoo.network">Cuckoo Network</a> ·
   <a href="https://cuckoo.network/docs/cuckoo-network">Documentation</a>
 </p>
-
+ 
 <p align="center">
     <a href="https://cuckoo.network/dc" target="_blank">
         <img src="https://img.shields.io/discord/1228809366283616357?logo=discord&labelColor=%20%235461eb&logoColor=%20%23f5f5f5&color=%20%235462eb"
